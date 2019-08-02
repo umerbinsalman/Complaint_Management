@@ -55,6 +55,19 @@
                             </li>
                         </ul>
                     </li>
+                    <li class="site-menu-item has-sub">
+                        <a href="javascript:void(0)">
+                            <i class="site-menu-icon md-view-compact" aria-hidden="true"></i>
+                            <span class="site-menu-title">Invitation</span>
+                        </a>
+                        <ul class="site-menu-sub">
+                            <li class="site-menu-item">
+                                <a class="animsition-link" href="invitation/send">
+                                    <span class="site-menu-title">Send Invitation</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </div>

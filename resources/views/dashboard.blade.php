@@ -114,7 +114,7 @@
                     <!-- Widget User list -->
                     <div class="card" id="widgetUserList">
                         <div class="card-header cover overlay">
-                            <img class="cover-image h-200" src="../assets//examples/images/dashboard-header.jpg"
+                            <img class="cover-image h-200" src="{{asset('iconbar/assets//examples/images/dashboard-header.jpg')}}"
                                  alt="..." />
                             <div class="overlay-panel vertical-align overlay-background">
                                 <div class="vertical-align-middle">

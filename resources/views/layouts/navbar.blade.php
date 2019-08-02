@@ -42,7 +42,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link navbar-avatar" data-toggle="dropdown" href="#" aria-expanded="false"
                        data-animation="scale-up" role="button">
-                <span class="avatar avatar-online">
+                <span class="avatar">
                   <img src="../../global/portraits/5.jpg" alt="...">
                   <i></i>
                 </span>
@@ -52,7 +52,7 @@
                         <a class="dropdown-item" href="javascript:void(0)" role="menuitem"><i class="icon md-card" aria-hidden="true"></i> Billing</a>
                         <a class="dropdown-item" href="javascript:void(0)" role="menuitem"><i class="icon md-settings" aria-hidden="true"></i> Settings</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="javascript:void(0)" role="menuitem"><i class="icon md-power" aria-hidden="true"></i> Logout</a>
+                        <a class="dropdown-item" href="{{url('/logout')}}" role="menuitem"><i class="icon md-power" aria-hidden="true"></i> Logout</a>
                     </div>
                 </li>
             </ul>

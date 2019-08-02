@@ -91,6 +91,7 @@
 <script src="{{asset('global/vendor/jvectormap/maps/jquery-jvectormap-world-mill-en.js')}}"></script>
 <script src="{{asset('global/vendor/matchheight/jquery.matchHeight-min.js')}}"></script>
 <script src="{{asset('global/vendor/peity/jquery.peity.min.js')}}"></script>
+    <script src="{{asset('global/vendor/jquery-placeholder/jquery.placeholder.js')}}"></script>
 
 
 <!-- Scripts -->
@@ -120,7 +121,10 @@
 
     <script src="{{asset('iconbar/assets/examples/js/advanced/bootbox-sweetalert.js')}}"></script>
 
-<script src="{{asset('iconbar/assets/examples/js/dashboard/v1.js')}}"></script>
+    <script src="{{asset('global/js/Plugin/jquery-placeholder.js')}}"></script>
+    <script src="{{asset('global/js/Plugin/material.js')}}"></script>
+
+    <script src="{{asset('iconbar/assets/examples/js/dashboard/v1.js')}}"></script>
 
 </body>
 </html>
